@@ -7,4 +7,13 @@ Two applications need to work at the same time that is GTFS Data Loader (retriev
 
 The Binaries folder contains prebuilt applications.
 
+The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` in folder `GTFS_Data_Loader`
+
+Different versions of the Unity project can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
+
+`Digital_Twin_Vanilla_Fullscreen`
+`Digital_Twin_Vanilla_Windowed`
+`Digital_Twin_Trippy_Fullscreen`
+`Digital_Twin_Trippy_Windowed`
+
 ![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
