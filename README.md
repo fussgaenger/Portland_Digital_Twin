@@ -11,9 +11,9 @@ The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` in folder `G
 
 Different versions of the Unity project can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
 
-`Digital_Twin_Vanilla_Fullscreen`
-`Digital_Twin_Vanilla_Windowed`
-`Digital_Twin_Trippy_Fullscreen`
-`Digital_Twin_Trippy_Windowed`
+1. `Digital_Twin_Vanilla_Fullscreen`
+2. `Digital_Twin_Vanilla_Windowed`
+3. `Digital_Twin_Trippy_Fullscreen`
+4. `Digital_Twin_Trippy_Windowed`
 
 ![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
