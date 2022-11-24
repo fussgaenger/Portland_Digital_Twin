@@ -1,0 +1,597 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aP.dag/ArcGISMapsSDK.dll"
+-refout:"Library/Bee/artifacts/1900b0aP.dag/ArcGISMapsSDK.ref.dll"
+-define:UNITY_2021_3_4
+-define:UNITY_2021_3
+-define:UNITY_2021
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:USE_SEARCH_ENGINE_API
+-define:USE_SEARCH_TABLE
+-define:USE_SEARCH_MODULE
+-define:USE_PROPERTY_DATABASE
+-define:USE_SEARCH_EXTENSION_API
+-define:SCENE_TEMPLATE_MODULE
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_4_6
+-define:NET_UNITY_4_8
+-define:UNITY_PRO_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:USE_URP_PACKAGE
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterInputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ClusterRendererModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UIElementsNativeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UNETModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VirtualTexturingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Buffers.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Annotations.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Memory.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Http.Rtc.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Duplex.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.NetTcp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Microsoft.CSharp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.DataSetExtensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.burst@1.6.5/Unity.Burst.Unsafe.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/AOT/Newtonsoft.Json.dll"
+-r:"C:/Projektarbeit/TriMet_Portland_Digital_Twin_Final_02/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Esri.HPFramework.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Mathematics.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/UnityEngine.UI.ref.dll"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISGameEngineType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISIntermediateDataBuffer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISLoadable.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISLoadableDoneLoadingEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISLoadableLoadStatusChangedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISLoadStatus.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISRuntimeEnvironment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/ArcGISRuntimeEnvironmentErrorEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISAttribute.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISAttributeProcessor.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISAttributeProcessorEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISAttributeType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISVisualizationAttribute.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISVisualizationAttributeDescription.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Attributes/ArcGISVisualizationAttributeType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Elevation/ArcGISImageElevationSource.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Elevation/Base/ArcGISElevationSource.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Elevation/Base/ArcGISElevationSourceCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Elevation/Base/ArcGISElevationSourceType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Extent/ArcGISExtent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Extent/ArcGISExtentCircle.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Extent/ArcGISExtentRectangle.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Extent/ArcGISExtentType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISAngularUnit.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISAngularUnitId.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISAreaUnit.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISAreaUnitId.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISCoordinateFormatter.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISCubicBezierSegment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISDatumTransformation.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISDatumTransformationType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISDistance.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISEllipticArcSegment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISEnvelope.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISEnvelopeBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGARSConversionMode.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeodesicEllipseParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeodesicSectorParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeodeticCurveType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeodeticDistanceResult.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeographicTransformation.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeographicTransformationStep.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometry.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryBuilderType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryDimension.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryEngine.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryExtendOptions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryOffsetType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISGeometryType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISHorizontalVerticalTransformation.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISHorizontalVerticalTransformationStep.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISImmutablePart.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISImmutablePartCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISImmutablePointCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISLatitudeLongitudeFormat.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISLinearUnit.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISLinearUnitId.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISLineSegment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMGRSConversionMode.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMultipart.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMultipartBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMultipoint.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMultipointBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMutablePart.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMutablePartCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISMutablePointCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPoint.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPoint.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPoint.Serialization.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPointBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPolygon.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPolygonBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPolyline.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISPolylineBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISProximityResult.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISSegment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISSegmentType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISSpatialReference.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISSpheroidData.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISTransformationCatalog.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISUnit.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISUnitType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Geometry/ArcGISUTMConversionMode.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/ArcGIS3DObjectSceneLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/ArcGISImageLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/ArcGISIntegratedMeshLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/ArcGISUnknownLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/ArcGISUnsupportedLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/Base/ArcGISLayer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/Base/ArcGISLayerCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Layers/Base/ArcGISLayerType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Map/ArcGISBasemap.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Map/ArcGISMap.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Map/ArcGISMapElevation.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Map/ArcGISMapType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/MapView/ArcGISCamera.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/MapView/ArcGISCamera.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/MapView/ArcGISGlobeModel.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/MapView/ArcGISSceneViewingMode.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Math/ArcGISOrientedBoundingBox.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Math/ArcGISVector3.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Math/ArcGISVector4.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/ArcGISDataBufferView.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/ArcGISRenderCommandServer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/ArcGISRenderCommandType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/DataBufferView.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/DecodedRenderCommandQueue.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISComposeCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISComposedTextureElement.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISCopyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISCreateMaterialCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISCreateRenderTargetCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISCreateSceneComponentCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISCreateTextureCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISDestroyMaterialCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISDestroyRenderTargetCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISDestroySceneComponentCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISDestroyTextureCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISGenerateMipMapsCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISGenerateNormalTextureCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMaterialRenderTargetProperty.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMaterialScalarProperty.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMaterialTextureProperty.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMaterialType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMaterialVectorProperty.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMeshBufferChangeType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISMultipleComposeCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISNullCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSceneComponentType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialNamedTexturePropertyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialRenderTargetPropertyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialScalarPropertyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialTexturePropertyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMaterialVectorPropertyCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMeshBufferCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetMeshCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetSceneComponentPivotCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetTexturePixelDataCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISSetVisibleCommandParameters.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISTextureFormat.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/Parameters/ArcGISTextureSemantic.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/RenderCommandQueue/RenderCommand.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationChallenge.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationChallengeIssuedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationChallengeType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationConfiguration.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationConfigurationType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationManager.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISAuthenticationManager.Extension.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISOAuthAuthenticationChallenge.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISOAuthAuthenticationChallengeIssuedEventHandler.Extension.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISOAuthAuthenticationConfiguration.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISOAuthAuthorizationCredential.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/Security/ArcGISOAuthAuthorizationCredentialIssuedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/ArcGISView.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/ArcGISView.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/ArcGISViewOptions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/ArcGISViewSpatialReferenceChangedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISElevationSourceViewState.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISElevationSourceViewStateChangedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISElevationSourceViewStatus.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISLayerViewState.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISLayerViewStateChangedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISLayerViewStatus.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISViewState.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISViewStateChangedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISViewStateMessage.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISViewStateMessageType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/GameEngine/View/State/ArcGISViewStatus.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISArrayType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISColor.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISColorType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISElement.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISElementType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISError.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISErrorType.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISFutureCompletedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISFutureStatus.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateByteArrayStruct.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateDictionary.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateFuture.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateImmutableArray.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateImmutableArrayBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISIntermediateMutableArray.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISMutableArrayElementAddedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISMutableArrayElementRemovedEvent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Standard/ArcGISRuntimeClient.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISCollection.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISDataBuffer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISDataBuffer.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISDictionary.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISErrorManager.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISEventHandler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISFuture.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISImmutableArray.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISImmutableArrayBuilder.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/ArcGISMutableArray.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISByteArrayStruct.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISDateTime.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISElement.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISError.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISMaterialReference.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISString.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Convert.ArcGISVector3.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Environment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/Interop.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/API/Unity/MonoPInvokeCallbackAttribute.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/AssemblyInfo.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISCameraComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISEditorCameraComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISLocationComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISMapComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISRebaseComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISRendererComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Components/ArcGISSkyRepositionComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Memory/AndroidDefaultMemorySystemHandler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Memory/DefaultMemorySystemHandler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Memory/IMemorySystem.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Memory/IMemorySystemHandler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Memory/MemoryQuotas.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/ArcGISRenderer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/ArcGISTerrainOcclusionRenderer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/IImageComposer.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/ImageComposerCS.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/ImageComposerPS.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/INormalMapGenerator.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/LongitudeLUTGenerator.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/NormalMapGeneratorCS.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUComputing/NormalMapGeneratorPS.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/GPUResourceMaterial.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/GPUResourceMesh.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/GPUResourceRenderTexture.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/GPUResourcesProvider.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/GPUResourceTexture2D.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/IGPUResourceMaterial.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/IGPUResourceMesh.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/IGPUResourceRenderTexture.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/IGPUResourcesProvider.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/GPUResources/IGPUResourceTexture2D.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/IRenderCommandClient.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/RenderCommandClient.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/RenderCommandThrottle.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/SceneComponents/ISceneComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/SceneComponents/ISceneComponentProvider.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/SceneComponents/OrientedBoundingBox.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/SceneComponents/SceneComponent.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Renderer/SceneComponents/SceneComponentProvider.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Security/ArcGISAuthenticationChallengeHandler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Security/ArcGISAuthenticationConfigurationInstanceData.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/ArcGISMainThreadScheduler.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Environment.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/GeoCoord/ArcGISRotation.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/GeoCoord/GeoUtils.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/double3.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/double4.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/double4x4.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/float3.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/Geometry.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/MathUtils.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/Quaternion.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/quaterniond.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Math/quaterniond.Extensions.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Unity/AtmosphereHelpers.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Unity/FrustumHelpers.cs"
+"Library/PackageCache/com.esri.arcgis-maps-sdk@de62bea1444a/SDK/Utils/Unity/RaycastHelpers.cs"
+-langversion:9.0
+/unsafe+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+-warn:0
+
+/additionalfile:"Library/Bee/artifacts/1900b0aP.dag/ArcGISMapsSDK.AdditionalFile.txt"

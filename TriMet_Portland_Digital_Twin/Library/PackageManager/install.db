@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.esri.arcgis-maps-sdk": {
+      "tarball": {
+        "hash": "de62bea1444a",
+        "mtime": 1654786594000,
+        "size": 405497838,
+        "localPath": "D:\\Root\\Unity\\ArcGISMapsforUnity\\Release_1.0\\arcgis-maps-sdk-unity-1.0.0.tgz"
+      }
+    }
+  }
+}
