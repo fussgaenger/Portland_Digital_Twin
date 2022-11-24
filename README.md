@@ -1,4 +1,4 @@
-# Portland_Digital_Twin
+# Portland Digital Twin
  Digital Twin of the Portland Public Transport Network
 
 This project sets out to create a Digital Twin of the Portland TriMet Public Transportation network. It leverages the General Transport Feed Specification (GTFS) to get vehicle location data straight from TriMet. Real-time vehicle data are pulled from TriMet's feed to be visualized in a Unity project. The Unity project is enhanced by the ESRI Maps SDK for Unity to enable using latitude/longitude data.
