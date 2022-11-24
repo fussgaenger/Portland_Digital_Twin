@@ -9,7 +9,7 @@ The `Binaries` folder contains prebuilt applications.
 
 The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` in folder `GTFS_Data_Loader`
 
-Different versions of the Unity project can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
+Different versions of the Portland Digital Twin can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
 
 1. `Digital_Twin_Vanilla_Fullscreen`
 2. `Digital_Twin_Vanilla_Windowed`
