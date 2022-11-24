@@ -5,7 +5,7 @@ This project sets out to create a Digital Twin of the Portland TriMet Public Tra
 
 Two applications need to work at the same time that is GTFS Data Loader (retrieves GTFS Realtime data) and Portland Digital Twin (Unity project consuming GTFS Realtime data and taking care of visuals).
 
-The Binaries folder contains prebuilt applications.
+The `Binaries` folder contains prebuilt applications.
 
 The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` in folder `GTFS_Data_Loader`
 
