@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "GTFS_Data_Simulator": {
+      "commandName": "Project"
+    }
+  }
+}

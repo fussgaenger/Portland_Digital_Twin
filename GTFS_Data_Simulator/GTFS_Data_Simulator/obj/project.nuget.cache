@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YsDO0o5D7SSZ3qOqoaacUc57I+5u2vNwyIBjh9HrkfSKRDQkHXTEvXGfFlyRr3UwxdhYASKoYbtCj1CSChVtw==",
+  "success": true,
+  "projectFilePath": "D:\\Root\\UNIGIS\\Projektarbeit\\VS2019_GTFS\\GTFS_Data_Simulator\\GTFS_Data_Simulator\\GTFS_Data_Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ws0001\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ws0001\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\ws0001\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
