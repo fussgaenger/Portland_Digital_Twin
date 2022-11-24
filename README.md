@@ -1,2 +1,4 @@
 # Portland_Digital_Twin
  Digital Twin of the Portland Public Transport Network
+
+![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
