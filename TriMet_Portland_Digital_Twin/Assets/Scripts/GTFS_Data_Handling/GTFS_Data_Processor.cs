@@ -5,7 +5,7 @@
 * Author           Winfried Schwan               *
 * Participant ID   107023                        *
 * Filename         GTFS_Data_Processor.cs        *
-* Version          1.0                           *
+* Version          1.01                          *
 * Summary          This script reads locally     *
 *                  stored realtime data from the *
 *                  Portland TriMet GTFS feed and *
@@ -15,7 +15,7 @@
 *                  Unity                         *
 *                                                *
 * Created          2022-07-22 15:00:00           *
-* Last modified    2022-08-16 19:20:00           *
+* Last modified    2022-11-25 07:50:00           *
 *                                                *
 **************************************************/
 
@@ -38,8 +38,8 @@ public class GTFS_Data_Processor : MonoBehaviour
 
     static public bool debugMode = false;
 
-    static public string workingFolderPath   = @"D:\tmp\gtfs_working\";
-    static public string processedFolderPath = @"D:\tmp\gtfs_processed\";
+    static public string workingFolderPath   = @"C:\tmp\gtfs_working\";
+    static public string processedFolderPath = @"C:\tmp\gtfs_processed\";
 
     static public List<Vehicle> vehicleList = new List<Vehicle>();
 

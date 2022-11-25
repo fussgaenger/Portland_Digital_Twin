@@ -5,7 +5,7 @@
 * Author           Winfried Schwan               *
 * Participant ID   107023                        *
 * Filename         GTFS_Stops_Data_Loader.cs     *
-* Version          1.0                           *
+* Version          1.01                          *
 * Summary          This script reads the locally *
 *                  stored static GTFS file       *
 *                  stops.txt, a CSV file that    *
@@ -17,7 +17,7 @@
 *                  scripts                       *
 *                                                *
 * Created          2022-07-26 08:15:00           *
-* Last modified    2022-08-16 19:20:00           *
+* Last modified    2022-11-25 07:55:00           *
 *                                                *
 **************************************************/
 
@@ -37,7 +37,7 @@ public class GTFS_Stops_Data_Loader : MonoBehaviour
     // stop ids and stop names in a csv format
     //
 
-    private static string gtfsStopsFilePath = @"D:\tmp\gtfs_stops\stops.txt";
+    private static string gtfsStopsFilePath = @"C:\tmp\gtfs_stops\stops.txt";
 
 
     //
