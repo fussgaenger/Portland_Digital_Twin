@@ -4,7 +4,7 @@
 <!-- Author           Winfried Schwan               -->
 <!-- Participant ID   107023                        -->
 <!-- Filename         MainWindow.xaml               -->
-<!-- Version          1.0                           -->
+<!-- Version          1.01                          -->
 <!-- Summary          This file describes the       -->
 <!--                  window layout including       -->
 <!--                  different UI controls to      -->
@@ -12,7 +12,7 @@
 <!--                  with the GTFS Data Loader     -->
 <!--                                                -->
 <!-- Created          2022-06-26 15:00:00           -->
-<!-- Last modified    2022-08-16 12:20:00           -->
+<!-- Last modified    2022-11-25 07:30:00           -->
 <!--************************************************-->
 
 <!-- Window Properties -->
@@ -75,12 +75,12 @@
 
         <GroupBox Header="Folder Configuration" HorizontalAlignment="Left" Height="158" Margin="10,350,0,0" VerticalAlignment="Top" Width="624" BorderThickness="2" FontSize="14"/>
         <Label Content="Working Folder" HorizontalAlignment="Left" Margin="20,370,0,0" VerticalAlignment="Top" Width="104" FontSize="14"/>
-        <TextBox x:Name="WorkingFolder" HorizontalAlignment="Left" Height="24" Margin="132,374,0,0" TextWrapping="Wrap" Text="D:\tmp\gtfs_working\" VerticalAlignment="Top" Width="186" FontSize="14" TextChanged="WorkingFolder_Changed"/>
+        <TextBox x:Name="WorkingFolder" HorizontalAlignment="Left" Height="24" Margin="132,374,0,0" TextWrapping="Wrap" Text="C:\tmp\gtfs_working\" VerticalAlignment="Top" Width="186" FontSize="14" TextChanged="WorkingFolder_Changed"/>
         <Button x:Name="OpenWorkingFolder" Content="Open Working Folder..." HorizontalAlignment="Left" Margin="132,413,0,0" VerticalAlignment="Top" Width="186" IsDefault="True" Height="33" Click="OpenWorkingFolder_Click" FontSize="14"/>
         <Button x:Name="PurgeWorkingFolder" Content="Purge Working Folder..." HorizontalAlignment="Left" Margin="132,459,0,0" VerticalAlignment="Top" Width="186" IsDefault="True" Height="33" Click="PurgeWorkingFolder_Click" FontSize="14"/>
 
         <Label Content="Archive Folder" HorizontalAlignment="Left" Margin="331,370,0,0" VerticalAlignment="Top" Width="104" FontSize="14"/>
-        <TextBox x:Name="ArchiveFolder" HorizontalAlignment="Left" Height="24" Margin="435,374,0,0" TextWrapping="Wrap" Text="D:\tmp\gtfs_archive\" VerticalAlignment="Top" Width="186" FontSize="14" TextChanged="ArchiveFolder_Changed"/>
+        <TextBox x:Name="ArchiveFolder" HorizontalAlignment="Left" Height="24" Margin="435,374,0,0" TextWrapping="Wrap" Text="C:\tmp\gtfs_archive\" VerticalAlignment="Top" Width="186" FontSize="14" TextChanged="ArchiveFolder_Changed"/>
         <Button x:Name="OpenArchiveFolder" Content="Open Archive Folder..." HorizontalAlignment="Left" Margin="433,413,0,0" VerticalAlignment="Top" Width="186" IsDefault="True" Height="33" Click="OpenArchiveFolder_Click" FontSize="14"/>
         <Button x:Name="PurgeArchiveFolder_Copy1" Content="Purge Archive Folder..." HorizontalAlignment="Left" Margin="433,459,0,0" VerticalAlignment="Top" Width="186" IsDefault="True" Height="33" Click="PurgeArchiveFolder_Click" FontSize="14" UseLayoutRounding="True"/>
 
