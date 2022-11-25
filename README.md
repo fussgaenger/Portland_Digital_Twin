@@ -16,4 +16,13 @@ Different versions of the Portland Digital Twin can be run by executing `TriMet_
 3. `Digital_Twin_Trippy_Fullscreen`
 4. `Digital_Twin_Trippy_Windowed`
 
+Please notice that a couple of folders need to be set up before giving it a try...
+
+`C:\tmp\gtfs_working`
+`C:\tmp\gtfs_archive`
+`C:\tmp\gtfs_processed`
+`C:\tmp\gtfs_stops`
+
+Please make also sure that the file stops.txt that can befound at the top level of this repo is copied to `C:\tmp\gtfs_stops`. This file contains the stop names of the network that are needed to feed the info panel in the app.
+
 ![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
