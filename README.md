@@ -25,4 +25,6 @@ Please note that a couple of folders need to be set up before giving it a try...
 
 Please make also sure that the file `stops.txt` that can be found at the top level of this repo is copied to `C:\tmp\gtfs_stops`. This file contains the stop names of the network that are needed to feed the info panel in the app.
 
+All of the Digital_Twin applications can be left by hitting the ESC key. This might be especially helpful when running the full screen applications.
+
 ![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
