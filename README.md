@@ -28,3 +28,5 @@ Please make also sure that the file `stops.txt` that can be found at the top lev
 All Digital_Twin_* applications can be left at any point in time by hitting the ESC key. This might be especially helpful when running the full screen applications.
 
 ![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
+
+![Portland Digital Twin](/Videos/Portland_Digital_Twin_Trippy.mp4)
