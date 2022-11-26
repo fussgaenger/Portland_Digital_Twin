@@ -21,6 +21,7 @@ Different versions of the Portland Digital Twin can be run by executing `TriMet_
 4. `Digital_Twin_Trippy_Windowed`
 
  <br />
+ 
 __Important notes on setup__
 
 Please note that a couple of folders needs to be set up before running the application...
