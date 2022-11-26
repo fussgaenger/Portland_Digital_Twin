@@ -24,7 +24,7 @@ Different versions of the Portland Digital Twin can be run by executing `TriMet_
  
 __Important notes on setup__
 
-Please note that a couple of folders needs to be set up before running the application...
+Please note that a couple of folders needs to be set up before running the application. Please create the following folders:
 
 `C:\tmp\gtfs_working`
 `C:\tmp\gtfs_archive`
