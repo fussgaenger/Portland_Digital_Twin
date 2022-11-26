@@ -20,6 +20,8 @@ Different versions of the Portland Digital Twin can be run by executing `TriMet_
 3. `Digital_Twin_Trippy_Fullscreen`
 4. `Digital_Twin_Trippy_Windowed`
 
+_Important notes on setup_
+
 Please note that a couple of folders needs to be set up before running the application...
 
 `C:\tmp\gtfs_working`
