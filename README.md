@@ -1,5 +1,9 @@
 # Portland Digital Twin
  Digital Twin of the Portland Public Transport Network
+ 
+This is a random screenshot captured from the Digital Twin "Trippy" Edition. For a more lifelike experience check out the repo's `Videos` folder.
+
+![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
 
 This project sets out to create a Digital Twin of the Portland TriMet Public Transportation network. It leverages the General Transport Feed Specification (GTFS) to get vehicle location data straight from TriMet. Real-time vehicle data are pulled from TriMet's feed to be visualized in a Unity project. The Unity project is enhanced by the ESRI Maps SDK for Unity to enable using latitude/longitude data.
 
@@ -27,8 +31,5 @@ Please make also sure that the file `stops.txt` that can be found at the top lev
 
 All Digital_Twin_* applications can be left at any point in time by hitting the ESC key. This might be especially helpful when running the full screen applications. 
 
-This is a random screenshot captured from the Digital Twin "Trippy" Edition. For a more lifelike experience check out the repo's `Videos` folder.
 
-![Portland Digital Twin](/Screenshots/Portland_Digital_Twin.png)
 
-![Portland Digital Twin](/Videos/Portland_Digital_Twin_Trippy.mp4)
