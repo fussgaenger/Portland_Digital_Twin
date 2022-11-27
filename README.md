@@ -41,8 +41,8 @@ __The fine print on versions...__
 
 Although I expect this app to work with newer software versions I cannot say for sure because this hadn't been tested. So here are some details on the software used in my environment
 
-1. Unity Editor (Version 2021.3.4f1 LTS from 2021)
-2. Microsoft Visual Studio Community 2019 (Version 16.11.16 from 2021)
-3. ESRI ArcGIS Pro (Version 3.02 from 2022)
-4. ESRI Maps SDK for Unity (Version 1.0 from 2022)
+1. Unity Editor _(Version 2021.3.4f1 LTS from 2021)_
+2. Microsoft Visual Studio Community 2019 _(Version 16.11.16 from 2021)_
+3. ESRI ArcGIS Pro _(Version 3.02 from 2022)_
+4. ESRI Maps SDK for Unity _(Version 1.0 from 2022)_
 
