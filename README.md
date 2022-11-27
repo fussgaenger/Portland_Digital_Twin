@@ -39,7 +39,7 @@ All Digital_Twin_* applications can be left at any point in time by hitting the 
  
 __The fine print on versions...__
 
-Although I expect this app to work with newer software versions I cannot say for sure because this hadn't been tested. So here are some details on the software used in my environment
+Although I expect this app to work with newer software versions I cannot say for sure because this hadn't been tested. So here are some details on the software used in my environment:
 
 1. Unity Editor _(Version 2021.3.4f1 LTS from 2021)_
 2. Microsoft Visual Studio Community 2019 _(Version 16.11.16 from 2021)_
