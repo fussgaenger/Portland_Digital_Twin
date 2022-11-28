@@ -5,7 +5,7 @@
 * Author           Winfried Schwan               *
 * Participant ID   107023                        *
 * Filename         GTFS_Data_Simulator.cs        *
-* Version          1.0                           *
+* Version          1.01                          *
 * Summary          This script simulates a GTFS  *
 *                  feed by copying previously    *
 *                  captured GTFS files from      *
@@ -19,7 +19,7 @@
 *                  GTFS feed                     *
 *                                                *
 * Created at       2022-09-11 12:00:00           *
-* Last modified    2022-09-11 17:00:00           *
+* Last modified    2022-28-11 08:00:00           *
 *                                                *
 **************************************************/
 
@@ -36,8 +36,8 @@ namespace TriMetDigitalTwin
         * Set up class variables                         *
         **************************************************/
 
-        const string SOURCE_FOLDER      = @"D:\tmp\gtfs_data_offline\";
-        const string DESTINATION_FOLDER = @"D:\tmp\gtfs_working_test\";
+        const string SOURCE_FOLDER      = @"C:\tmp\gtfs_data_offline\";
+        const string DESTINATION_FOLDER = @"C:\tmp\gtfs_working\";
 
         static string gtfsOfflineDataFolderPath;
         static string gtfsWorkingFolderPath;
