@@ -5,7 +5,7 @@
 * Author           Winfried Schwan               *
 * Participant ID   107023                        *
 * Filename         MainWindow.xaml.cs            *
-* Version          1.0                           *
+* Version          1.1                           *
 * Summary          This script collects GTFS     *
 *                  realtime data from the        *
 *                  Portland TriMet GTFS feed and *
@@ -14,7 +14,7 @@
 *                  processing                    *
 *                                                *
 * Created          2022-06-26 15:00:00           *
-* Last modified    2022-08-16 19:20:00           *
+* Last modified    2022-12-04 19:20:00           *
 *                                                *
 **************************************************/
 
@@ -46,6 +46,8 @@ namespace TriMetDigitalTwin
         static public string archiveFolderPath;
         static public string workingFolderPath;
 
+        static public string processedFolderPath;
+
         static public string triMetDeveloperKey = "***REMOVED***";
 
         static public int queryIntervalInMilliseconds = 10000;
@@ -75,6 +77,16 @@ namespace TriMetDigitalTwin
             archiveFolderPath = ArchiveFolder.Text;
             workingFolderPath = WorkingFolder.Text;
 
+            processedFolderPath = @"C:\tmp\gtfs_processed";
+
+
+            //
+            // check if folders from UI do really exist
+            // if not create folders
+            //
+
+            createFoldersWhenMissing();
+
 
             //
             // set up the timer that is controlling
@@ -93,6 +105,7 @@ namespace TriMetDigitalTwin
             timer.Tick += (s, args) => Timer_Tick(QueryResultLabel);
         }
 
+ 
 
         /*************************************************
         *                                                *
@@ -738,6 +751,54 @@ namespace TriMetDigitalTwin
         private static void writeGtfsCompleteFileToWorkingFolder(string timeStampJsonFile)
         {
             File.WriteAllText(workingFolderPath + "vehicle_positions" + timeStampJsonFile + ".complete", "");
+        }
+
+
+        /*******************************************************
+        *                                                      *
+        * Method name     createFoldersWhenMissing             *
+        * Arguments       none                                 *
+        * Return value    none                                 *
+        * Summary         Checks if folders needed for         *
+        *                 processing are already set up        *
+        *                 at C:\tmp, if not make folders:      *
+        *                                                      *
+        *                 C:\tmp\gtfs_archive                  *
+        *                 C:\tmp\gtfs_working                  *
+        *                 C:\tmp\gtfs_processed                *
+        *                                                      *
+        ********************************************************/
+
+        private static void createFoldersWhenMissing()
+        {
+            //
+            // checking folder C:\tmp\gtfs_archive
+            //
+
+            if (!Directory.Exists(archiveFolderPath))
+            {
+                Directory.CreateDirectory(archiveFolderPath);
+            }
+
+
+            //
+            // checking folder C:\tmp\gtfs_working
+            //
+
+            if (!Directory.Exists(workingFolderPath))
+            {
+                Directory.CreateDirectory(workingFolderPath);
+            }
+
+
+            //
+            // checking folder C:\tmp\gtfs_processed
+            //
+
+            if (!Directory.Exists(processedFolderPath))
+            {
+                Directory.CreateDirectory(processedFolderPath);
+            }
         }
 
 
