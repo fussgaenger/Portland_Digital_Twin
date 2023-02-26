@@ -41,7 +41,7 @@ public class Portland_Map_Builder_Super_Trippy : MonoBehaviour
 	private ArcGISMapComponent arcGISMapComponent;
 	private ArcGISCameraComponent cameraComponent;
 
-	public string APIKey = "***REMOVED***";
+	public string APIKey = "Enter API Key here";
 
 
 	// set up positions for map and camera
