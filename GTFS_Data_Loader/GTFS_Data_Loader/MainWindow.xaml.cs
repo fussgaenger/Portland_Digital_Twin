@@ -48,7 +48,7 @@ namespace TriMetDigitalTwin
 
         static public string processedFolderPath;
 
-        static public string triMetDeveloperKey = "***REMOVED***";
+        static public string triMetDeveloperKey = "Your TriMet Application ID here";
 
         static public int queryIntervalInMilliseconds = 10000;
 
