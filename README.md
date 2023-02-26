@@ -52,6 +52,10 @@ Line 84
 
 Line 44
 
+Another key alias "Application ID" is needed from TrimMet. Again hit https://developer.trimet.org/appid/registration/ to apply for an Application ID. For this one you need to navigate to folder needs to be put in file 
+
+
+
 <br />
  
 __The fine print on versions...__
