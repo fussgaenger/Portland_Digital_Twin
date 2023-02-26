@@ -45,6 +45,8 @@ __Developer Key Alert!__
 Please note that a developer key issued by ESRI is needed to access various assets like basemaps from the ESRI universe. You can easily apply for an ESRI developer key by hitting https://developers.arcgis.com/. Please make sure that your gathered key is embedded in the following source code files:
 
 List tbd
+
+<br />
  
 __The fine print on versions...__
 
