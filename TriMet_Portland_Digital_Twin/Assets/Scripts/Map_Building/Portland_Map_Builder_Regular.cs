@@ -81,7 +81,7 @@ public class Portland_Map_Builder_Regular : MonoBehaviour
 	// Defined ESRI developer key
 	//
 
-	public string APIKey = "***REMOVED***";
+	public string APIKey = "Enter API Key here";
 
 
 	//
