@@ -37,6 +37,7 @@ Please note that a couple of folders needs to be set up before running the appli
 Please make also sure that the file `stops.txt` that can be found at the top level of this repo is copied to `C:\tmp\gtfs_stops`. This file contains the stop names of the network that are needed to feed the info panel in the app.
 
 All Digital_Twin_* applications can be left at any point in time by hitting the ESC key. This might be especially helpful when running the full screen applications. 
+
 <br />
 
 __Developer Key Alert!__
