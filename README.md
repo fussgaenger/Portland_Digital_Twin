@@ -50,7 +50,7 @@ Line 84
 
 Line 44
 
-Another key alias "Application ID" is needed from TrimMet. Again hit https://developer.trimet.org/appid/registration/ to apply for an Application ID. For this one you need to navigate to folder `Portland_Digital_Twin/GTFS_Data_Loader/GTFS_Data_Loader/` and modify file 
+Another key alias "Application ID" is needed from TriMet. Again hit https://developer.trimet.org/appid/registration/ to apply for an Application ID. For this one you need to navigate to folder `Portland_Digital_Twin/GTFS_Data_Loader/GTFS_Data_Loader/` and modify file 
 
 `MainWindow.xaml.cs`
 
