@@ -12,8 +12,6 @@ Two applications need to be run at the same time.
 1. GTFS Data Loader _(retrieves GTFS Realtime data)_
 2. Portland Digital Twin _(Unity project consuming GTFS Realtime data and taking care of visuals)_
 
-The `Binaries` folder contains prebuilt applications for the Unity based Portland Digital Twin app.
-
 The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` from folder `GTFS_Data_Loader`
 
 Different versions of the Portland Digital Twin can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
