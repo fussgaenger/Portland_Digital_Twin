@@ -1,9 +1,7 @@
 ﻿/*************************************************
 *                                                *
 * Project          GTFS Data Loader              *
-* Supervisor       Christoph Traun               *
 * Author           Winfried Schwan               *
-* Participant ID   107023                        *
 * Filename         MainWindow.xaml.cs            *
 * Version          1.1                           *
 * Summary          This script collects GTFS     *
@@ -14,7 +12,7 @@
 *                  processing                    *
 *                                                *
 * Created          2022-06-26 15:00:00           *
-* Last modified    2022-12-04 19:20:00           *
+* Last modified    2023-03-07 11:05:00           *
 *                                                *
 **************************************************/
 
@@ -546,7 +544,7 @@ namespace TriMetDigitalTwin
             request.AddHeader("Accept-Encoding", "gzip, deflate, br");
             request.AddHeader("Connection", "keep-alive");
 
-            request.AddParameter("appID", "***REMOVED***");
+            request.AddParameter("appID", "E1B2472800DC9379113A1CE07");
         }
 
 

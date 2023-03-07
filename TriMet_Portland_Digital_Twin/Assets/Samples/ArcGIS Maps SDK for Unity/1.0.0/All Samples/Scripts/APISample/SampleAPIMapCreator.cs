@@ -38,7 +38,7 @@ public class SampleAPIMapCreator : MonoBehaviour
 {
 	private ArcGISMapComponent arcGISMapComponent;
 	private ArcGISCameraComponent cameraComponent;
-	public string APIKey = "***REMOVED***";
+	public string APIKey = "AAPK2e357cc976d64b7cbea38fd70045a694hQehymGHm8ILlfLGlvryA3hwbgjKaSCT8b5xBb8Kat83HDlkVhZ_KOgj4iuwpIrc";
 
 	private ArcGISPoint geographicCoordinates = new ArcGISPoint(-74.054921, 40.691242, 3000, ArcGISSpatialReference.WGS84());
 
