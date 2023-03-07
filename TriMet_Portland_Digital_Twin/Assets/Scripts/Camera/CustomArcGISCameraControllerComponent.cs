@@ -1,10 +1,8 @@
 /***************************************************
 *                                                  *
 * Project          TriMet_Portland_Digital_Twin    *
-* Supervisor       Christoph Traun                 *
 * Author           ESRI                            *
 * Customizing      Winfried Schwan                 *
-* Participant ID   107023                          *
 * Filename         CustomArcGISCameraController    *
 *                  Component.cs                    *
 * Version          1.0                             *
@@ -29,7 +27,7 @@
 *                  focues on the area of interest  *
 *                                                  *
 * Created          2022-08-05 11:30:00             *
-* Last modified    2022-08-17 10:00:00             *
+* Last modified    2023-03-27 11:00:00             *
 *                                                  *
 ****************************************************/
 

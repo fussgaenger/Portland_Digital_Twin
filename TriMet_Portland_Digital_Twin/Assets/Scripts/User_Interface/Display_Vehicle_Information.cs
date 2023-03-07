@@ -1,9 +1,7 @@
 /**************************************************
 *                                                 *
 * Project          TriMet_Portland_Digital_Twin   *
-* Supervisor       Christoph Traun                *
 * Author           Winfried Schwan                *
-* Participant ID   107023                         *
 * Filename         Display_Vehicle_Information.cs *
 * Version          1.0                            *
 * Summary          This script is responsible     *
@@ -12,7 +10,7 @@
 *                  panel                          *
 *                                                 *
 * Created          2022-08-09 07:30:00            *
-* Last modified    2022-08-17 13:30:00            *
+* Last modified    2023-03-27 11:00:00            *
 *                                                 *
 ***************************************************/
 

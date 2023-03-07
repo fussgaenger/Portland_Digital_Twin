@@ -1,9 +1,7 @@
 /**************************************************
 *                                                 *
 * Project          TriMet_Portland_Digital_Twin   *
-* Supervisor       Christoph Traun                *
 * Author           Winfried Schwan                *
-* Participant ID   107023                         *
 * Filename         VehicleIndex.cs                *
 * Version          1.0                            *
 * Summary          This script is meant to be an  *
@@ -21,7 +19,7 @@
 *                  representation of the vehicle  *
 *                                                 *
 * Created          2022-08-12 16:00:00            *
-* Last modified    2022-08-17 14:00:00            *
+* Last modified    2023-03-27 11:05:00            *
 *                                                 *
 ***************************************************/
 

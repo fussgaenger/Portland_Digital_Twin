@@ -1,8 +1,6 @@
 ﻿<!--************************************************-->
 <!-- Project          GTFS Data Loader              -->
-<!-- Supervisor       Christoph Traun               -->
 <!-- Author           Winfried Schwan               -->
-<!-- Participant ID   107023                        -->
 <!-- Filename         MainWindow.xaml               -->
 <!-- Version          1.01                          -->
 <!-- Summary          This file describes the       -->
@@ -12,7 +10,7 @@
 <!--                  with the GTFS Data Loader     -->
 <!--                                                -->
 <!-- Created          2022-06-26 15:00:00           -->
-<!-- Last modified    2022-11-25 07:30:00           -->
+<!-- Last modified    2023-03-27 11:05:00           -->
 <!--************************************************-->
 
 <!-- Window Properties -->

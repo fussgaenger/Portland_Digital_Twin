@@ -1,10 +1,8 @@
 /***************************************************
 *                                                  *
 * Project          TriMet_Portland_Digital_Twin    *
-* Supervisor       Christoph Traun                 *
 * Author           ESRI                            *
 * Customizing      Winfried Schwan                 *
-* Participant ID   107023                          *
 * Filename         Paint_Vehicles_Regular.cs       *
 * Version          1.0                             *
 * Summary          This script is responsible      *
@@ -23,7 +21,7 @@
 *                  correctly in the scene          *
 *                                                  *
 * Created          2022-08-10 15:30:00             *
-* Last modified    2022-08-17 11:30:00             *
+* Last modified    2023-03-27 11:00:00             *
 *                                                  *
 ****************************************************/
 

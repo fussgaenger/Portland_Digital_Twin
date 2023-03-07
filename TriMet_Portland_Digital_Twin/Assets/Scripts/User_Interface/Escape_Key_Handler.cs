@@ -1,9 +1,7 @@
 /**************************************************
 *                                                 *
 * Project          TriMet_Portland_Digital_Twin   *
-* Supervisor       Christoph Traun                *
 * Author           Winfried Schwan                *
-* Participant ID   107023                         *
 * Filename         Escape_Key_Handler.cs          *
 * Version          1.0                            *
 * Summary          This script is responsible     *
@@ -11,7 +9,7 @@
 *                  when the ESC key is hit        *
 *                                                 *
 * Created          2022-11-09 12:00:00            *
-* Last modified    2022-11-17 13:30:00            *
+* Last modified    2023-03-27 11:00:00            *
 *                                                 *
 ***************************************************/
 

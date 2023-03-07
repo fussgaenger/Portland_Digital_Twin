@@ -1,9 +1,7 @@
 /*************************************************
 *                                                *
 * Project          TriMet_Portland_Digital_Twin  *
-* Supervisor       Christoph Traun               *
 * Author           Winfried Schwan               *
-* Participant ID   107023                        *
 * Filename         GTFS_Stops_Data_Loader.cs     *
 * Version          1.01                          *
 * Summary          This script reads the locally *
@@ -17,7 +15,7 @@
 *                  scripts                       *
 *                                                *
 * Created          2022-07-26 08:15:00           *
-* Last modified    2022-11-25 07:55:00           *
+* Last modified    2023-03-27 11:00:00           *
 *                                                *
 **************************************************/
 

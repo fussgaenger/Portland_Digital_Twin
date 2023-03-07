@@ -1,7 +1,6 @@
 /*************************************************
 *                                                *
 * Project          TriMet_Portland_Digital_Twin  *
-* Supervisor       Christoph Traun               *
 * Author           Winfried Schwan               *
 * Filename         GTFS_Data_Processor.cs        *
 * Version          1.01                          *

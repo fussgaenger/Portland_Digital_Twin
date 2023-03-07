@@ -1,9 +1,7 @@
 /*************************************************
 *                                                *
 * Project          TriMet_Portland_Digital_Twin  *
-* Supervisor       Christoph Traun               *
 * Author           Winfried Schwan               *
-* Participant ID   107023                        *
 * Filename         Animate_Headline_Regular.cs   *
 * Version          1.0                           *
 * Summary          This script is responsible    *
@@ -12,7 +10,7 @@
 *                  context on this scene         *
 *                                                *
 * Created          2022-07-26 08:15:00           *
-* Last modified    2022-08-17 12:30:00           *
+* Last modified    2023-03-27 11:00:00           *
 *                                                *
 **************************************************/
 

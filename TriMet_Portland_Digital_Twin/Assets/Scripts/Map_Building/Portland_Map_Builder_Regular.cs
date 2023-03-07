@@ -1,10 +1,8 @@
 /***************************************************
 *                                                  *
 * Project          TriMet_Portland_Digital_Twin    *
-* Supervisor       Christoph Traun                 *
 * Author           ESRI                            *
 * Customizing      Winfried Schwan                 *
-* Participant ID   107023                          *
 * Filename         Portland_Map_Builder_Regular.cs *
 * Version          1.0                             *
 * Summary          This script is based on ESRI    *
@@ -28,7 +26,7 @@
 *                  locally from disk               *
 *                                                  *
 * Created          2022-08-02 09:30:00             *
-* Last modified    2022-11-17 10:00:00             *
+* Last modified    2023-03-27 11:00:00             *
 *                                                  *
 ****************************************************/
 
