@@ -14,14 +14,7 @@ Two applications need to be run at the same time.
 
 The GTFS Data Loader can be run by executing `GTFS_Data_Loader.exe` from folder `GTFS_Data_Loader`
 
-Different versions of the Portland Digital Twin can be run by executing `TriMet_Portland_DigitalTwin.exe` in folders 
-
-1. `Digital_Twin_Vanilla_Fullscreen`
-2. `Digital_Twin_Vanilla_Windowed`
-3. `Digital_Twin_Trippy_Fullscreen`
-4. `Digital_Twin_Trippy_Windowed`
-
- <br />
+<br />
  
 __Important notes on setup__
 
