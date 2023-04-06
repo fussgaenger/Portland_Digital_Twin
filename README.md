@@ -51,7 +51,7 @@ After updating these files you should be good to go...
 
 <br />
  
-__The fine print on versions finally...__
+__The fine print on versions...__
 
 Although I expect this app to work with newer software versions I cannot say for sure because this hadn't been tested. So here are some details on the software versions used in my environment:
 
